@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[eky:home|Door43 (eky)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-eky|d43-eky repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-eky/archive/master.zip|d43-eky.zip]]
+
+**Recent Changes**
+{{changes>ns = eky}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/eky|Ethnologue data]]
+
